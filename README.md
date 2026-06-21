@@ -160,19 +160,19 @@ PersonalProfileAppDup/
 ## Screenshots
 
 ### 1. Home Page - Add Profile Form
-![Home Page](screenshot/home.png)
+![Home Page](screenshot/home.png.png)
 
 ### 2. Profile Display
-![Profile Page](screenshot/profile.png)
+![Profile Page](screenshot/profile.png.png)
 
 ### 3. View All Profiles
-![View All Profiles](screenshot/viewprofiles.png)
+![View All Profiles](screenshot/viewProfiles.png.png)
 
 ### 4. Search Profiles
-![Search Profiles](screenshot/search.png)
+![Search Profiles](screenshot/search.png.png)
 
 ### 5. Edit Profile
-![Edit Profile](screenshot/edit.png)
+![Edit Profile](screenshot/edit.png.png)
 
 ---
 
