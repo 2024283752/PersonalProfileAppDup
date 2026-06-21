@@ -166,7 +166,7 @@ PersonalProfileAppDup/
 ![Profile Page](screenshot/profile.png.png)
 
 ### 3. View All Profiles
-![View All Profiles](screenshot/viewProfiles.png.png)
+![View All Profiles](screenshot/viewProfile.png.png)
 
 ### 4. Search Profiles
 ![Search Profiles](screenshot/search.png.png)
